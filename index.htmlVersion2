@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head> 
+    <meta charset="utf-8">
+    <title>My Homepage</title>
+   </head>
+   
+   <style>
+       body{background:salmon;
+       p {color:white;}
+       
+   </style>
+   
+   <body>
+    <h1>A Little About Me</h1>
+    <p> Firstly, my name is Hannah and I'm a junior attending Independence High School.
+         Fun fact, my favorite animal is the hippo because they're so goofy looking! 
+         However, I can't just have <em>one</em> favorite animal without naming a few others.</p>
+   </body>
+ </html>
+    
